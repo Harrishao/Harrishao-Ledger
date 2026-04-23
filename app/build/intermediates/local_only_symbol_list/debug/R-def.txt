@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color primary
+color secondary
+color surface
+color text_primary
+color text_secondary
+drawable ic_launcher_background
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string amount
+string app_name
+string confirm
+string invalid_amount
+string please_enter_amount
+string please_enter_purpose
+string purpose
+string saved_successfully
+string time
+style Theme.ExpenseTracker
+xml backup_rules
+xml data_extraction_rules

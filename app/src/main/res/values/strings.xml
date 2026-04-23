@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">哈里斯浩的账本</string>
+    <string name="time">时间</string>
+    <string name="purpose">用途</string>
+    <string name="amount">总额</string>
+    <string name="confirm">确定</string>
+    <string name="saved_successfully">保存成功</string>
+    <string name="please_enter_purpose">请输入用途</string>
+    <string name="please_enter_amount">请输入总额</string>
+    <string name="invalid_amount">请输入有效的金额</string>
+</resources>

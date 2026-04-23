@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#C0C0C0</color>
+    <color name="background">#1A1A1A</color>
+    <color name="primary">#6A4C93</color>
+    <color name="secondary">#D4AF37</color>
+    <color name="surface">#2A2A2A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#C0C0C0</color>
+    <string name="amount">总额</string>
+    <string name="app_name">哈里斯浩的账本</string>
+    <string name="confirm">确定</string>
+    <string name="invalid_amount">请输入有效的金额</string>
+    <string name="please_enter_amount">请输入总额</string>
+    <string name="please_enter_purpose">请输入用途</string>
+    <string name="purpose">用途</string>
+    <string name="saved_successfully">保存成功</string>
+    <string name="time">时间</string>
+    <style name="Theme.ExpenseTracker" parent="android:Theme.Material.NoActionBar"/>
+</resources>
